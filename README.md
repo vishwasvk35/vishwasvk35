@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishwas Kulkarni</h1>
 <h3 align="center">a passionate full stack developer from India. with interest in open-source!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwasvk35" alt="vishwasvk35" /></a> </p>
-
 - 🔭 I’m currently working on [Codesync](https://github.com/vishwasvk35/CodeSync/tree/main)
 
 - 🌱 I’m currently learning **Next.JS and Julia**
