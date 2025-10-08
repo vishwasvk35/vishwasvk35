@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Codesync](https://github.com/vishwasvk35/CodeSync/tree/main)
 
-- 🌱 I’m currently learning **Next.JS and Julia**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **react, express, postgreSQL...**
 
